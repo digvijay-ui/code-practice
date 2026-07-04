@@ -10,12 +10,12 @@ for (let i = 0; i<number.length; i++){
 }
 
 
-// Find the first number greater than 50 in this array:
-const number = [23,57,56,99,12];
+// // Find the first number greater than 50 in this array:
+// const number = [23,57,56,99,12];
 
-for (let i = 0; i<number.length; i++){
-    if(number[i] > 50){
-        console.log(number[i]);
-        break;
-    }
-}
+// for (let i = 0; i<number.length; i++){
+//     if(number[i] > 50){
+//         console.log(number[i]);
+//         break;
+//     }
+// }
