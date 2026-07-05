@@ -12,5 +12,5 @@ for (let i = 1; i<=5; i++){
         row = row + i;
 
     }
-    console.log(row);
+    console.log(row)
 }
