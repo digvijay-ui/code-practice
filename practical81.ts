@@ -12,5 +12,4 @@ for(let i = 0; i<sentences.length; i++){
 
 console.log(addHyphen);
 
-add hyphen between sentences 
 
