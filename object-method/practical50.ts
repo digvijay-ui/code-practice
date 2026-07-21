@@ -10,7 +10,7 @@ const students = [
         age: 21,
         marks: 38,
     },{
-        name: "aastha",
+        name: "skylar",
         age: 22,
         marks: 90
     }
