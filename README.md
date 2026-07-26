@@ -21,5 +21,14 @@ Things which are completed
 * [x] Basic String Interview Questions
 * [x] Objects
 * [x] Objects and Methods
-
-
+* [x] Advance array object
+- forEach()
+- map()
+- filter()
+- find()
+- some()
+- every()
+- reduce()
+- sort()
+* [x] functions -->
+- callback
