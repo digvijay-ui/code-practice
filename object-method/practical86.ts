@@ -52,7 +52,7 @@ validateEmail("rajputdigvijaysinh.com");
  
 // email validation with regex
 
-function validateEmail(email: string) : void {
+function validateEmailRegex(email: string) : void {
     const emailRegex =  /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
 
     if (emailRegex.test(email)){
@@ -62,7 +62,7 @@ function validateEmail(email: string) : void {
     }
 }
 
-validateEmail("rajputdigvijaysinh45@gmail.com")
+validateEmailRegex("rajputdigvijaysinh45@gmail.com")
 
 
  
