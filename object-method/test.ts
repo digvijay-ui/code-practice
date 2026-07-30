@@ -59,4 +59,3 @@
 // console.log(validateEmail("rajputdigvijay56@gmail.com"));
 
 
-function 
