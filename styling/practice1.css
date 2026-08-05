@@ -1,0 +1,90 @@
+/* .title{
+    font-size: 32px;
+    font-weight:bold;
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.description{
+    font-size: 18px;
+    line-height: 1.5;
+}
+.link{
+    text-decoration: none;
+} */
+
+/* border and background */
+
+/* .profile-card{
+    background-color: lightblue;
+    border: 1px solid darkblue;
+    border-radius: 10px;
+}
+
+.profile-card h2{
+    color: navy;
+}
+
+.profile-card p {
+    color: gray;
+} */
+
+
+/* css unit */
+
+/* .container{
+    width: 90%;
+    max-width: 1200px;
+    min-width: 50vh;
+}
+.container h2{
+    font-size: 2.5 rem;
+}
+.container p {
+    font-size: 1.2 rem;
+} */
+
+/* Display property */
+
+/* .box {
+    display: block;
+    width: 300px;
+}
+.message {
+    visibility:hidden;
+} */
+
+/* Overflow */
+/* 
+.content-box {
+    width: 300px;
+    height: 80px;
+    overflow: auto;
+    border: 1px solid black ;
+} */
+
+/* css possion */
+
+/* .card {
+    position: relative;
+    width: 300px;
+    height: 200px;
+
+}
+.close-button{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+} */
+
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items:;
+    padding: 20px;
+}
+
+.links{
+    display: flex;
+    gap: 10px;
+}
