@@ -59,3 +59,32 @@ export function sumOfOdd(arr: number[]) : number {
 }
 console.log(sumOfOdd([1,2,3,4,5,6]));
 
+// first not repating number
+
+export function firstNonRepating(arr : number[]) : number {
+
+    for (let i = 0; i<arr.length; i++){
+        if(arr.indexOf(arr[i]) === arr.lastIndexOf(arr[i])){
+            return arr[i];
+        }
+    }
+    return -1
+}
+console.log(firstNonRepating([4, 5, 1, 2, 1, 4, 5]))
+
+
+// Count Occurrences of a Number
+
+
+export function countNumber (arr : number[], target : number) : number {
+    let count = 0;
+
+    for (let i = 0; i<arr.length; i++){
+        if(arr[i] === target){
+            count++
+        }
+    }
+    return count
+}
+console.log(countNumber([1, 2, 2, 3, 2, 4], 2));
+
