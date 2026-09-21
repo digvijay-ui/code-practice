@@ -51,3 +51,17 @@
   - [x] Shared State
   - [x] Private Variables
   - [x] Closure Output Questions
+
+- [x] Pattern Questions
+  - [x] Star Pyramid Pattern
+  - [x] Inverted Star Pyramid Pattern
+  - [x] Right-Aligned Star Triangle Pattern
+  - [x] Right-Aligned Star Diamond Pattern
+  - [x] Inverted Right-Angled Star Triangle Pattern
+  - [x] Number Triangle Pattern
+  - [x] Repeated-Number Triangle Pattern
+  - [x] Floyd's Triangle Pattern
+  - [x] Number Half-Diamond Pattern
+  - [x] Palindrome Number Pyramid Pattern
+  - [x] Hollow Square Pattern
+  - [x] Hollow Right-Angled Triangle Pattern
